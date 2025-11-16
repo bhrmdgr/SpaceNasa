@@ -92,6 +92,18 @@ SpaceNasaAPI/ (Swift Package)
     └ FlightResponse.swift
        → Sayfalama yapısına sahip API cevapları
 
+---
+
+## Ekran Fotoğrafları
+<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 33" src="https://github.com/user-attachments/assets/df05df43-fc98-4fc9-aa8f-8ff0f57b5f74" />
+<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 05" src="https://github.com/user-attachments/assets/e8b2267f-58db-46f7-871d-a87345445ea8" />
+<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 45" src="https://github.com/user-attachments/assets/81f108d3-81e8-4522-b34b-736fe9f950ec" />
+<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 40" src="https://github.com/user-attachments/assets/0e543108-6cb5-4187-81fe-25dc00a1cb7f" />
+<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 09" src="https://github.com/user-attachments/assets/52636c63-a4ca-4233-9344-d5e3b2b88494" />
+<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 20" src="https://github.com/user-attachments/assets/6e5920ee-8389-43ff-ae08-159d5aeb8c4c" />
+
+       
+---
 ## Bağımlılıklar
 
 - **Alamofire** – HTTP istekleri
@@ -108,7 +120,6 @@ SpaceNasaAPI/ (Swift Package)
 4. iOS 13+ simülatör veya cihazda derleyip çalıştırın.
 
 ---
-
 ## Veri Kaynağı ve Ağ
 
 - **Temel URL**: `https://lldev.thespacedevs.com/2.2.0/`
@@ -143,22 +154,4 @@ SpaceNasaAPI/ (Swift Package)
 - `https://lldev.thespacedevs.com/2.2.0/launch/{id}/`
   - Amaç: Tekil fırlatma detayı
 
-Tüm uç noktalar Launch Library 2 v2.2.0 şemasına uyumludur.
-
----
-
-## Performans ve Erişilebilirlik
-
-- **Görseller**: `ImageLoader` ile in-memory cache ve downsampling.
-- **UI Güncellemeleri**: Ana thread üzerinde durum değişimi.
-- **Erişilebilirlik**: `accessibilityLabel` ve `accessibilityValue` kullanımı mevcut.
-
----
-
-## Geliştirme Notları
-
-- **Tema**: Neon cyan vurgu ve koyu arka plan.
-- **State Yönetimi**: Enum tabanlı, hata/boş durum açık biçimde tanımlı.
-- **Mapper Katmanı**: Tarih formatlama ve fallback zincirleri içerir.
-- **Testler**: Henüz eklenmemiştir.
 
