@@ -95,13 +95,13 @@ SpaceNasaAPI/ (Swift Package)
 ---
 
 ## Ekran Fotoğrafları
-<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 33" src="https://github.com/user-attachments/assets/df05df43-fc98-4fc9-aa8f-8ff0f57b5f74" />
-<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 05" src="https://github.com/user-attachments/assets/e8b2267f-58db-46f7-871d-a87345445ea8" />
-<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 45" src="https://github.com/user-attachments/assets/81f108d3-81e8-4522-b34b-736fe9f950ec" />
-<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 40" src="https://github.com/user-attachments/assets/0e543108-6cb5-4187-81fe-25dc00a1cb7f" />
-<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 09" src="https://github.com/user-attachments/assets/52636c63-a4ca-4233-9344-d5e3b2b88494" />
-<img width="1260" height="2736" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 20" src="https://github.com/user-attachments/assets/6e5920ee-8389-43ff-ae08-159d5aeb8c4c" />
 
+<img width="300" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 05" src="https://github.com/user-attachments/assets/e8b2267f-58db-46f7-871d-a87345445ea8" />
+<img width="300" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 09" src="https://github.com/user-attachments/assets/52636c63-a4ca-4233-9344-d5e3b2b88494" />
+<img width="300" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 20" src="https://github.com/user-attachments/assets/6e5920ee-8389-43ff-ae08-159d5aeb8c4c" />
+<img width="300" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 33" src="https://github.com/user-attachments/assets/df05df43-fc98-4fc9-aa8f-8ff0f57b5f74" />
+<img width="300" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 40" src="https://github.com/user-attachments/assets/0e543108-6cb5-4187-81fe-25dc00a1cb7f" />
+<img width="300" alt="Simulator Screenshot - iPhone Air - 2025-11-16 at 20 53 45" src="https://github.com/user-attachments/assets/81f108d3-81e8-4522-b34b-736fe9f950ec" />
        
 ---
 ## Bağımlılıklar
